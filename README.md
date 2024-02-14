@@ -60,4 +60,4 @@ Before running Nova RA Search, make sure you have the following installed:
 --- 
 
 ### Contributors:
-- Farhaan Rasool - @frasool@uci.edu
+- Anudeep Hedge
